@@ -1,6 +1,7 @@
 # Processo Seletivo Darp - Página de Cadastro
 
 Este é um projeto front-end de uma página de cadastro, desenvolvido para o Processo Seletivo da Darp.
+Para ffuncionamento completo da aplicação, realize download da API desenvolvida para o processo seletivo: -  [link api](https://github.com/contrasov/auth-api)
 
 ## 🛠️ Tecnologias Utilizadas
 
