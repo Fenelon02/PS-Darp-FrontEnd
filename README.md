@@ -15,7 +15,7 @@ Para rodar este projeto localmente, siga os passos:
 
 1.  **Clone o repositório**
     ```bash
-    git clone [https://github.com/Fenelon02/PS-Darp-FrontEnd.git](https://github.com/Fenelon02/PS-Darp-FrontEnd.git)
+    git clone https://github.com/Fenelon02/PS-Darp-FrontEnd.git
     ```
 
 2.  **Entre na pasta do projeto**
