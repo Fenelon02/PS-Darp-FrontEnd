@@ -3,13 +3,13 @@
 - Este é um projeto front-end de uma página de cadastro, desenvolvido para o Processo Seletivo da Darp.
 - Para funcionamento completo da aplicação, realize download da API desenvolvida para o processo seletivo: [link api](https://github.com/contrasov/auth-api)
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **React:** Biblioteca para construir a interface.
 * **Tailwind CSS:** Framework para estilização rápida.
 * **Axios:** Para fazer as chamadas e consumir a API.
 
-## 🚀 Como Executar
+##  Como Executar
 
 Para rodar este projeto localmente, siga os passos:
 
